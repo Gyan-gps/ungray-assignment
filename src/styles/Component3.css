@@ -1,0 +1,19 @@
+.title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.description{
+    color: #a4a4a6;
+    margin: 10px 0px;
+}
+
+.btn3{
+    cursor: pointer;
+    padding: 10px 20px;
+    width: fit-content;
+    border: 2px solid #f2f2f4;
+
+    border-radius: 20px;
+
+}

@@ -1,0 +1,55 @@
+.header6{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.result{    
+    cursor: pointer;
+    padding: 10px 20px;
+    width: fit-content;
+    border: 2px solid #f2f2f4;
+    border-radius: 20px;
+
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+ thead tr {
+    border-bottom: 1pt solid #808288;
+    color: #808288;
+  }
+td{
+    padding: 10px;
+}
+
+
+tbody td:last-child{
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.rating{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.star{color: red;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    line-height: 14px;
+}
+
+/* tbody td:last-child::before{
+    content: "*";
+    color: red;
+    font-size: 20px;
+    margin:0px 5px;
+    display: flex;
+    align-items: baseline;
+} */

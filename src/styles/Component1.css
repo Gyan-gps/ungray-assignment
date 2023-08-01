@@ -1,0 +1,32 @@
+
+
+.left1{
+    display: flex;
+    gap: 20px;
+}
+
+select{
+    padding: 8px;
+    border-radius: 8px;
+    font-weight: bold;
+    border: 1px solid #a4a4bd;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 8px;
+    width: 150px;
+    gap: 10px;
+    border: 1px #a4a4bd solid;
+}
+
+.title1{
+    font-size: 16px;
+    color: #a4a4bd;
+}
+.value1{
+    font-size: 16px;
+    font-weight: bold;
+}
